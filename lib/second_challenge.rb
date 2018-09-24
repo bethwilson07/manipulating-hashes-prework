@@ -9,6 +9,5 @@ def second_challenge
   grocery_values = groceries.values
   
   grocery_values.join(" ")
-  grocery_values.split(" ")
 
 end
