@@ -19,6 +19,7 @@ def first_challenge
         value.each do |flavor|
           if flavor == "strawberry"
             flavor.delete_if("strawberry")
+          end
         end
       end
     end
