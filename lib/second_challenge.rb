@@ -8,6 +8,6 @@ def second_challenge
 
   grocery_values = groceries.values
   
-  grocery_values.concat(" ")
+  grocery_values.concat(1)
 
 end
